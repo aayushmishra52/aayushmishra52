@@ -17,4 +17,5 @@
 🌐 **Connect**  
 Let's collaborate and create something impactful! 🚀  
 
+![aayushmishra52's Stats](https://github-readme-stats.vercel.app/api?username=aayushmishra52&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
 ---
